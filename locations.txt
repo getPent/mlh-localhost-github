@@ -170,4 +170,6 @@ Lowell, Arkansas
 San Antonio, Texas, United States
 Kaduna, Nigeria
 Buea, Cameroon
+=======
+Karachi, Pakistan
 Houston, Texas, United States
